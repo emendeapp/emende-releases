@@ -3,6 +3,18 @@
     <channel>
         <title>Emende</title>
         <item>
+            <title>0.2.1</title>
+            <pubDate>Sun, 26 Jul 2026 02:57:41 +0200</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://raw.githubusercontent.com/RaphGvl/emende-releases/main/Emende-0.2.1.zip" length="7510676" type="application/octet-stream" sparkle:edSignature="/aqWH14+GR48xmsL7AVcuu7AISnUu49wfn/U2XgKGU8bgucE0wMH3kuegU0826oI0bnLtRzQIXNQcu3qvdQpDA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/RaphGvl/emende-releases/main/Emende9-8.delta" sparkle:deltaFrom="8" length="400150" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="vDsnYe4ELo8oCsNlbTB3jzoiJCMxN2TtVYYHfJwi1DJFPEqFUuOq/532bRfhTFKGNtuesVI5NRgdSc2FMX/rBw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.2.0</title>
             <pubDate>Tue, 21 Jul 2026 21:56:16 +0200</pubDate>
             <sparkle:version>8</sparkle:version>
