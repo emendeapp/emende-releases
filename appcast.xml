@@ -3,6 +3,22 @@
     <channel>
         <title>Emende</title>
         <item>
+            <title>1.0.0</title>
+            <pubDate>Sun, 13 Sep 2026 15:04:18 +0200</pubDate>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://raw.githubusercontent.com/RaphGvl/emende-releases/main/Emende-1.0.0.zip" length="10765805" type="application/octet-stream" sparkle:edSignature="uQQ6mauKVaHiD68k39CmW9+uDqTLFwlDBYQVLTlc3DD5bCLsMQVlKiNdNDh6r1RHTajujI66P+NupGio6yaDDQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/RaphGvl/emende-releases/main/Emende17-16.delta" sparkle:deltaFrom="16" length="20794" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="MrWVKczJ0vyENoTvDJozRb4yeaKJvJ/PhgiQ96Ud9pZJvZaioqc22jwm0K01XZYSfUeQnAnJKvmLwxw6UVZ7DQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/RaphGvl/emende-releases/main/Emende17-15.delta" sparkle:deltaFrom="15" length="884778" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="RZXD6GA6OR36YgvAfN2SA45mSA/6LRdH8hpphcmWVgwJpdU32KNcymjmbKhz7VgRw+MZLH7NVETBpVh/7hbvBw=="/>
+                <enclosure url="https://raw.githubusercontent.com/RaphGvl/emende-releases/main/Emende17-14.delta" sparkle:deltaFrom="14" length="6720850" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="uiFvjruqztvDUYbvQ9X3mHoQGer5qFiOJLGn3TrrCXTITxom6RUVQt/EV0LQ5pRwVk1viFbpiqCGE3W3zyucBQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/RaphGvl/emende-releases/main/Emende17-13.delta" sparkle:deltaFrom="13" length="6734238" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="mIZqKZcIYrYM2BjzZRMTzpqalHzeZ5B2LdU+j9sRSPP84MlUBhvswZT9GY4JHDOJBN/ACDwfkhU45C2dhqFQDw=="/>
+                <enclosure url="https://raw.githubusercontent.com/RaphGvl/emende-releases/main/Emende17-12.delta" sparkle:deltaFrom="12" length="6755654" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="kHRnjGrB9EnUJBf2uUIpHW2GvC0CrU45bNU2xdjzV+ZjNUoqJbL1wZ8vfne7yjQv3X9HAbZkLYFzbfIux3r/AA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.4.1</title>
             <pubDate>Sun, 13 Sep 2026 13:42:25 +0200</pubDate>
             <sparkle:version>16</sparkle:version>
@@ -32,22 +48,6 @@
                 <enclosure url="https://raw.githubusercontent.com/RaphGvl/emende-releases/main/Emende15-12.delta" sparkle:deltaFrom="12" length="6746926" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="PEpaMZJyOm/NEnxTnU3hpzVf5DqBKbe7lpAI2Ju+GBWzY/4fpxH6m9fkVyI+GrQ2cmBfK//Mgwu4WCKi+COUBQ=="/>
                 <enclosure url="https://raw.githubusercontent.com/RaphGvl/emende-releases/main/Emende15-11.delta" sparkle:deltaFrom="11" length="6764486" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="CmaP/ecwnoOD5NHsdV3V6lrJ5Mq/v77iFnrB99X2iNEozEtp838lyaZ4YMBAELYlA1hnnQr9wfgC5KT8vH2ZAw=="/>
                 <enclosure url="https://raw.githubusercontent.com/RaphGvl/emende-releases/main/Emende15-10.delta" sparkle:deltaFrom="10" length="6762270" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="HFr+W5jnkdvhYwPdWmEZZ/q3YsMSupD/FLVyIbMpv4C67rxB/pQQhmWBv1qIpDIoGKtDKvNW8qFMWdel/quoDw=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.3.1</title>
-            <pubDate>Tue, 08 Sep 2026 00:29:31 +0200</pubDate>
-            <sparkle:version>14</sparkle:version>
-            <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://raw.githubusercontent.com/RaphGvl/emende-releases/main/Emende-0.3.1.zip" length="7638042" type="application/octet-stream" sparkle:edSignature="ifp4HQaKH6HynLISJEFCMQMIEgJDt5vJeJmGJ/IdbHw/GeoEBN1Y09FvDtsykosmXhK4nBlmfQko5Za7kiRvDA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/RaphGvl/emende-releases/main/Emende14-13.delta" sparkle:deltaFrom="13" length="896338" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="6yMF6h8WGRQtEb64q+9n5eIfHXSyA7Q5q4pksqAcYoqqfPUDfq/4a/CVuiIp1lwM7xNS5rpswqVPcMBmPEa0AQ=="/>
-                <enclosure url="https://raw.githubusercontent.com/RaphGvl/emende-releases/main/Emende14-12.delta" sparkle:deltaFrom="12" length="988486" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="xtnBtH60/dOCsesP5RP7/A91JP8i1cj6CPedmMd6BP0EC9/294UxfHEh1M8RG7YOcKwLKqOU5UEmGUCwqCLcBg=="/>
-                <enclosure url="https://raw.githubusercontent.com/RaphGvl/emende-releases/main/Emende14-11.delta" sparkle:deltaFrom="11" length="986206" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="VrYAaKCaqLF421gDkYzBaYPcfnxEeuFv/VyX4PtzFtNjxXz023wmf2dPYAEmdheUecjCzN89fubNXMIIsikFCA=="/>
-                <enclosure url="https://raw.githubusercontent.com/RaphGvl/emende-releases/main/Emende14-10.delta" sparkle:deltaFrom="10" length="1013734" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="LdCXVHrWBG+eKZ0Q3fGXW0Es7wOhQUGjkffGxJasI4zrgjknkVzCgOP2I6OmhuV4UMcO/3nLYOTKsTriElHGDg=="/>
-                <enclosure url="https://raw.githubusercontent.com/RaphGvl/emende-releases/main/Emende14-9.delta" sparkle:deltaFrom="9" length="1099518" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980336" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="scsU9PNmUpEaRyh15zjwTJnpiv4KxxCMGopJjurqUdCftwIcIUwvGi/4aWroAa4gtC/o6oi0UqEImivAG3oEDw=="/>
             </sparkle:deltas>
         </item>
     </channel>
